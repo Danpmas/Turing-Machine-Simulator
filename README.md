@@ -10,10 +10,4 @@ This project implements a Turing Machine in the language C. The Turing Machine c
 - Move the head left or right one cell
 - Change to some (possibly the same) state
 
-The program should work for any input file which represents a Turing Machine in this format, with any number of states.
-
-
-
-
-
-
+The program should work for any input file which represents a Turing Machine in this format (the TM.txt file format), with any number of states.
